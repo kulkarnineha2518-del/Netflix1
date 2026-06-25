@@ -1,0 +1,6 @@
+{
+  "name": "Movie Streaming Platform",
+  "description": "A highly optimized, stunning entertainment streaming website inspired by Netflix, featuring interactive rows, fluid Framer Motion cards, real-time shimmer load states, and a LocalStorage watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
